@@ -1,0 +1,8 @@
+{
+    
+    "baseUrl":"https://www.hsbc.co.uk/mortgages/repayment-calculator/",
+    "ignoreTestFiles":["**/1-getting-started/*", "**/2-advanced-examples/*"],
+    "viewportHeight":768,
+    "viewportWidth":1320,
+    "chromeWebSecurity": false
+}
